@@ -1,11 +1,11 @@
-const logotext = "JOHN";
+const logotext = "VS";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Vidhi Shah",
+    description: "I’m Vidhi Shah data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Vidhi Shah",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
@@ -17,7 +17,9 @@ const introdata = {
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: `Technical Projects with 18+ Months of Application Development, Solution Design, and Project Management Experience. Has a track record of successfully understanding and meeting the technical demands of businesses through clever innovation. Experience in full stack development technologies with skills in Workflow Management, Intuitive User Experience & Product Management, and Web & Mobile Application Development.
+
+    Enterprise projects are planned and managed by business strategists that match corporate objectives with technological solutions to promote process improvements, competitive advantage, and financial rewards. Recognized for ability to provide high-quality products on schedule and within budget.`,
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
@@ -136,9 +138,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "vidhishah12@gmail.com",
+    YOUR_FONE: "(987)124-4567",
+    description: "HOW ARE YOU!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,9 +149,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/vshah1999",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://www.linkedin.com/in/vidhi-shah-68885b294/",
     twitter: "https://twitter.com",
 };
 export {

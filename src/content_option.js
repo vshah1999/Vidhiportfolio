@@ -11,7 +11,7 @@ const introdata = {
         second: "I code cool websites",
         third: "I develop mobile apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "The term TECHNOLOGIES is broad and encompasses a wide range of tools, methods, systems, and devices that are developed and used to solve problems, perform tasks, and achieve specific goals. Here's an overview of key categories within technology",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
@@ -62,15 +62,15 @@ const skills = [{
 
 const services = [{
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "UI design focuses on the visual and interactive elements of a product. It involves designing the look and feel of the user interface to make it visually appealing, user-friendly, and in line with the overall brand or theme.",
     },
     {
         title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "If applicable, include positive reviews, testimonials, or ratings from users or reputable sources Highlight any awards or recognition your app may have received.",
     },
     {
         title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "WordPress is a popular open-source content management system (CMS) that allows users to create and manage websites or blogs. It was initially developed as a blogging platform but has evolved into a versatile tool for building various types of websites, including business websites, e-commerce stores, portfolios, and more.",
     },
 ];
 
